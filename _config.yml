@@ -23,7 +23,7 @@ repository               : "dohyungbang/dohyungbang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/img/dh_profile.png"
+  avatar           : "assets/img/dh_profile.jpg"
   name             : "Dohyung Bang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate | Tourism Researcher"
