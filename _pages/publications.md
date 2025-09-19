@@ -30,7 +30,7 @@ Working Papers
 - **Bang, D. H.**, & Jang, S. C. (2025). Temporal Shifts in Online Reviewers’ Motivation and Selection Behavior: A Dynamic Analysis Using Hidden Markov Models (HMM)
 - **Bang, D. H.**, & Jang, S. C. (2025). Extending Tourism Productivity: The Shared-Inputs Global Network DEA (SIGN-DEA) Approach with Absorptive Capacity
 
-Conference Proceedings
+Conference Presentations
 ======
 - **Bang, D. H.**, & Jang. S. C. (2025). The Ripple Effect of Motivation: How Online Reviewers Shape eWOM Behavior Over Time, 2025 ICHRIE Global Conference, Indianapolis, IN, USA 
 - **Bang, D. H.**, & Jang. S. C. (2025). Beyond Carrying Capacity: A New Approach to Overtourism, The 30th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Houston, TX, USA [Best Paper Nominee]	
