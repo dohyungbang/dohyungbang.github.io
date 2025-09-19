@@ -19,5 +19,5 @@ main:
     
   - title: "CV"
     url: "https://dohyungbang.github.io/files/cv_bang.pdf"
-    external: true
+    #external: true
 
