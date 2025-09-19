@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 Teaching (Academic Institutions) 
-======
+------
 _Undergraduate Level_
 * **Financial Management (HTM 441)**, Purdue University, USA
   * Teaching Assistant –- Spring 2024
