@@ -15,7 +15,7 @@ My specific interests include:
 - Tourism Economics
 - Causal Inference in Tourism and Hospitality 
 - Computational Social Science
-- Dynamics in Home Sharing Economy
+- Dynamics in the Home Sharing Economy
 
 Methodologically, my work employes advanced computational and statistical techniques to analyze high-resolution, large-scale datasets (e.g., user-generated content, mobility data, point-of-interest data).
 
