@@ -18,6 +18,6 @@ main:
     url: /media/
     
   - title: "CV"
-    url: "https://dohyungbang.github.io/files/CV_BANG.pdf"
+    url: "https://dohyungbang.github.io/files/cv_bang.pdf"
     external: true
 
