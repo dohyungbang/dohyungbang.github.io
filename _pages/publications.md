@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Publications
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=mX_GvX0AAAAJ).
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=mX_GvX0AAAAJ&sortby=pubdate).
 
 ## Journal Articles 
 - **Bang, D. H.** & Jang, S. C. (2025). [Reframing Carrying Capacity: A Visitor-Oriented Approach](https://doi.org/10.1016/j.annals.2025.104022), _Annals of Tourism Research_ 
