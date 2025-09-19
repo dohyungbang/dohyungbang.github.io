@@ -7,6 +7,7 @@
 # server process.
 
 # Basic Site Settings
+minimal_mistakes_skin    : "default" 
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Dohyung Bang"
@@ -16,8 +17,6 @@ description              : &description "Dohyung's personal webpage"   # Update 
 url                      : "https://dohyungbang.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dohyungbang/dohyungbang.github.io"
-
-minimal_mistakes_skin    : "default" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
