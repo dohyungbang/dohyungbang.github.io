@@ -13,7 +13,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Dohyung Bang"
 title_separator          : "-"
 name                     : &name "Dohyung Bang"
-description              : &description "Dohyung's personal webpage"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Dohyung Bang's personal website – PhD Candidate at Purdue University, Tourism Researcher"  # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://dohyungbang.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dohyungbang/dohyungbang.github.io"
