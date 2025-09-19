@@ -32,11 +32,11 @@ Working Papers
 
 Conference Proceedings
 ======
-- Bang, D. H., & Jang. S. C. (2025). The Ripple Effect of Motivation: How Online Reviewers Shape eWOM Behavior Over Time, 2025 ICHRIE Global Conference, Indianapolis, IN, USA (In person)
-- Bang, D. H., & Jang. S. C. (2025). Beyond Carrying Capacity: A New Approach to Overtourism, The 30th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Houston, TX, USA (In person) [Best Paper Nominee]	
-- Bang, D. H., & Jang. S. C. (2024). Navigating the Valley of Death Challenge of Travel-tech Startups: Evidence from the Korean Travel-tech Industry, 22nd APacCHRIE Conference, Seoul, South Korea (In person) [Best Paper Award]
-- Bang, D. H., & Jang. S. C. (2024). Short-term Stays, Long-term Impacts: How Airbnb Shapes Home Value Dynamics, The 29th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Miami, FL, USA (In person)	
-- Bang, D. H., & Jang. S. C. (2023). The Effect of Restaurant Platform Endorsements on Customers’ Attitudes: A Big Data-Based Quasi-Experimental Approach, 2023 Global Marketing Conference, Seoul, South Korea (In person)
-- Bang, D. H., & Jang. S. C. (2023). Navigating Consumer Uncertainty: Investigating the Roles of Information Quantity and Polarity in eWOM Environment, 21st APacCHRIE Conference, Clark, Philippines (In person)
-- Bang, D. H., & Jang. S. C. (2023). Are Google Trends Effective for Estimating Hotel Demands? Towards A Supplementary Tool for Revenue Managers, The 28th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Orange, CA, USA (In person)	
- -Bang, D. H., & Kim. S. W. (2018). Context-based Service Quality Using Review Data and its Impact on Customer’s Response, Decision Science Institute (DSI) Annual Meeting, Chicago, IL, USA (In person)
+- Bang, D. H., & Jang. S. C. (2025). The Ripple Effect of Motivation: How Online Reviewers Shape eWOM Behavior Over Time, 2025 ICHRIE Global Conference, Indianapolis, IN, USA 
+- Bang, D. H., & Jang. S. C. (2025). Beyond Carrying Capacity: A New Approach to Overtourism, The 30th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Houston, TX, USA [Best Paper Nominee]	
+- Bang, D. H., & Jang. S. C. (2024). Navigating the Valley of Death Challenge of Travel-tech Startups: Evidence from the Korean Travel-tech Industry, 22nd APacCHRIE Conference, Seoul, South Korea [Best Paper Award]
+- Bang, D. H., & Jang. S. C. (2024). Short-term Stays, Long-term Impacts: How Airbnb Shapes Home Value Dynamics, The 29th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Miami, FL, USA
+- Bang, D. H., & Jang. S. C. (2023). The Effect of Restaurant Platform Endorsements on Customers’ Attitudes: A Big Data-Based Quasi-Experimental Approach, 2023 Global Marketing Conference, Seoul, South Korea
+- Bang, D. H., & Jang. S. C. (2023). Navigating Consumer Uncertainty: Investigating the Roles of Information Quantity and Polarity in eWOM Environment, 21st APacCHRIE Conference, Clark, Philippines
+- Bang, D. H., & Jang. S. C. (2023). Are Google Trends Effective for Estimating Hotel Demands? Towards A Supplementary Tool for Revenue Managers, The 28th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Orange, CA, USA
+ -Bang, D. H., & Kim. S. W. (2018). Context-based Service Quality Using Review Data and its Impact on Customer’s Response, Decision Science Institute (DSI) Annual Meeting, Chicago, IL, USA
