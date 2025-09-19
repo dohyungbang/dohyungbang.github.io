@@ -24,6 +24,8 @@ _Graduate Level_
 * **Business Analytics (CSFSM 7053)**, Kyung Hee University, South Korea
   * Instructor of Record – Fall 2021
 
+---
+
 Teaching (Industry Professional Development Programs)
 ======
 _HRD Institute, Hyundai Department Store Group, Inc._ (Publicly Listed Retail Company, South Korea)
