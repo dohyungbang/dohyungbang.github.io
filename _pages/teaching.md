@@ -6,7 +6,8 @@ author_profile: true
 show_title: false
 ---
 
-## Teaching (Academic Institutions) 
+Teaching (Academic Institutions) 
+======
 _Undergraduate Level_
 * **Financial Management (HTM 441)**, Purdue University, USA
   * Teaching Assistant –- Spring 2024
@@ -23,7 +24,8 @@ _Graduate Level_
 * **Business Analytics (CSFSM 7053)**, Kyung Hee University, South Korea
   * Instructor of Record – Fall 2021
 
-## Teaching (Industry Professional Development Programs)
+Teaching (Industry Professional Development Programs)
+======
 _HRD Institute, Hyundai Department Store Group, Inc._ (Publicly Listed Retail Company, South Korea)
 - Data Analytics (60H), May 2025 – July 2025
 - Data Analytics (60H), May 2024 – July 2024
