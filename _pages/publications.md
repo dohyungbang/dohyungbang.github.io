@@ -10,12 +10,12 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Journal Articles 
 ======
-- **Bang, D. H.** & Jang, S. C. (2025). [Reframing Carrying Capacity: A Visitor-Oriented Approach](https://doi.org/10.1016/j.annals.2025.104022), Annals of Tourism Research 111, 104022	
-- **Bang, D. H.**, Jang, S. C., & Kim, E. H. (2025). [The Journey to Capital in Travel-Tech Startups](https://doi.org/10.1016/j.tourman.2025.105251), Tourism Management, 111, 105251
-- Kim, C. H., Shin, J. H., Yang, H. S., **Bang, D. H.**, & Verma, R. (2025). [Strategy Divergence and Performance Polarization in the Hotel Industry](https://doi.org/10.1177/19389655241244703), Cornell Hospitality Quarterly, 66(1), 21-36 
-- **Bang, D. H.** & Jang, S. C. (2024). [Decoding the Information Quantity-Quality Paradox: How eWOM Volume Influences Consumption Value Uncertainties](https://doi.org/10.1016/j.ijhm.2024.103769), International Journal of Hospitality Management, 120, 103769
-- **Bang, D. H.**, Choi, K. W., & Jang, S. C. (2023). [Are Franchise Royalty Fees Related to Franchisors' Support of Franchisees? Evidence from the restaurant industry](https://doi.org/10.1016/j.ijhm.2023.103555), International Journal of Hospitality Management, 114, 103555		
-- **Bang, D. H.**, Choi, K. W., & Kim, A. J. (2022). [Does Michelin Effect Exist? An Empirical Study on the Effects of Michelin Stars](https://doi.org/10.1108/IJCHM-08-2021-1025), International Journal of Contemporary Hospitality Management, 34(6), 2298-2319
+- **Bang, D. H.** & Jang, S. C. (2025). [Reframing Carrying Capacity: A Visitor-Oriented Approach](https://doi.org/10.1016/j.annals.2025.104022), _Annals of Tourism Research_ 
+- **Bang, D. H.**, Jang, S. C., & Kim, E. H. (2025). [The Journey to Capital in Travel-Tech Startups](https://doi.org/10.1016/j.tourman.2025.105251), _Tourism Management_
+- Kim, C. H., Shin, J. H., Yang, H. S., **Bang, D. H.**, & Verma, R. (2025). [Strategy Divergence and Performance Polarization in the Hotel Industry](https://doi.org/10.1177/19389655241244703), _Cornell Hospitality Quarterly_
+- **Bang, D. H.** & Jang, S. C. (2024). [Decoding the Information Quantity-Quality Paradox: How eWOM Volume Influences Consumption Value Uncertainties](https://doi.org/10.1016/j.ijhm.2024.103769), _International Journal of Hospitality Management_
+- **Bang, D. H.**, Choi, K. W., & Jang, S. C. (2023). [Are Franchise Royalty Fees Related to Franchisors' Support of Franchisees? Evidence from the restaurant industry](https://doi.org/10.1016/j.ijhm.2023.103555), _International Journal of Hospitality Management_	
+- **Bang, D. H.**, Choi, K. W., & Kim, A. J. (2022). [Does Michelin Effect Exist? An Empirical Study on the Effects of Michelin Stars](https://doi.org/10.1108/IJCHM-08-2021-1025), _International Journal of Contemporary Hospitality Management_
 
 Manuscript Under Review  
 ======
@@ -32,11 +32,11 @@ Working Papers
 
 Conference Presentations
 ======
-- **Bang, D. H.**, & Jang. S. C. (2025). The Ripple Effect of Motivation: How Online Reviewers Shape eWOM Behavior Over Time, 2025 ICHRIE Global Conference, Indianapolis, IN, USA 
-- **Bang, D. H.**, & Jang. S. C. (2025). Beyond Carrying Capacity: A New Approach to Overtourism, The 30th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Houston, TX, USA [Best Paper Nominee]	
-- **Bang, D. H.**, & Jang. S. C. (2024). Navigating the Valley of Death Challenge of Travel-tech Startups: Evidence from the Korean Travel-tech Industry, 22nd APacCHRIE Conference, Seoul, South Korea [Best Paper Award]
-- **Bang, D. H.**, & Jang. S. C. (2024). Short-term Stays, Long-term Impacts: How Airbnb Shapes Home Value Dynamics, The 29th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Miami, FL, USA
-- **Bang, D. H.**, & Jang. S. C. (2023). The Effect of Restaurant Platform Endorsements on Customers’ Attitudes: A Big Data-Based Quasi-Experimental Approach, 2023 Global Marketing Conference, Seoul, South Korea
-- **Bang, D. H.**, & Jang. S. C. (2023). Navigating Consumer Uncertainty: Investigating the Roles of Information Quantity and Polarity in eWOM Environment, 21st APacCHRIE Conference, Clark, Philippines
-- **Bang, D. H.**, & Jang. S. C. (2023). Are Google Trends Effective for Estimating Hotel Demands? Towards A Supplementary Tool for Revenue Managers, The 28th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Orange, CA, USA
-- **Bang, D. H.**, & Kim. S. W. (2018). Context-based Service Quality Using Review Data and its Impact on Customer’s Response, Decision Science Institute (DSI) Annual Meeting, Chicago, IL, USA
+- **Bang, D. H.**, & Jang. S. C. (2025). The Ripple Effect of Motivation: How Online Reviewers Shape eWOM Behavior Over Time, _2025 ICHRIE Global Conference_, Indianapolis, IN, USA 
+- **Bang, D. H.**, & Jang. S. C. (2025). Beyond Carrying Capacity: A New Approach to Overtourism, _The 30th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Houston, TX, USA [Best Paper Nominee]	
+- **Bang, D. H.**, & Jang. S. C. (2024). Navigating the Valley of Death Challenge of Travel-tech Startups: Evidence from the Korean Travel-tech Industry, _22nd APacCHRIE Conference_, Seoul, South Korea [Best Paper Award]
+- **Bang, D. H.**, & Jang. S. C. (2024). Short-term Stays, Long-term Impacts: How Airbnb Shapes Home Value Dynamics, _The 29th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Miami, FL, USA
+- **Bang, D. H.**, & Jang. S. C. (2023). The Effect of Restaurant Platform Endorsements on Customers’ Attitudes: A Big Data-Based Quasi-Experimental Approach, _2023 Global Marketing Conference_, Seoul, South Korea
+- **Bang, D. H.**, & Jang. S. C. (2023). Navigating Consumer Uncertainty: Investigating the Roles of Information Quantity and Polarity in eWOM Environment, _21st APacCHRIE Conference_, Clark, Philippines
+- **Bang, D. H.**, & Jang. S. C. (2023). Are Google Trends Effective for Estimating Hotel Demands? Towards A Supplementary Tool for Revenue Managers, _The 28th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Orange, CA, USA
+- **Bang, D. H.**, & Kim. S. W. (2018). Context-based Service Quality Using Review Data and its Impact on Customer’s Response, _Decision Science Institute (DSI) Annual Meeting_, Chicago, IL, USA
