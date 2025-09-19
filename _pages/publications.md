@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Publications
-You can also find my articles on my Google Scholar profile.
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=mX_GvX0AAAAJ).
 
 Journal Articles 
 ======
