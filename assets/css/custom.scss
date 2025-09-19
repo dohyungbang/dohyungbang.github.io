@@ -2,3 +2,8 @@
 .navicon-button, .navicon {
   display: none !important;
 }
+
+/* Hide theme toggle icon */
+#theme-toggle {
+  display: none !important;
+}
