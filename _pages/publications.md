@@ -29,8 +29,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Conference Presentations
 - **Bang, D. H.**, & Jang. S. C. (2025). The Ripple Effect of Motivation: How Online Reviewers Shape eWOM Behavior Over Time, _2025 ICHRIE Global Conference_, Indianapolis, IN, USA 
-- **Bang, D. H.**, & Jang. S. C. (2025). Beyond Carrying Capacity: A New Approach to Overtourism, _The 30th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Houston, TX, USA [**Best Paper Nominee**]	
-- **Bang, D. H.**, & Jang. S. C. (2024). Navigating the Valley of Death Challenge of Travel-tech Startups: Evidence from the Korean Travel-tech Industry, _22nd APacCHRIE Conference_, Seoul, South Korea [**Best Paper Award**]
+- **Bang, D. H.**, & Jang. S. C. (2025). Beyond Carrying Capacity: A New Approach to Overtourism, _The 30th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Houston, TX, USA (**Best Paper Nominee**)	
+- **Bang, D. H.**, & Jang. S. C. (2024). Navigating the Valley of Death Challenge of Travel-tech Startups: Evidence from the Korean Travel-tech Industry, _22nd APacCHRIE Conference_, Seoul, South Korea (**Best Paper Award**)
 - **Bang, D. H.**, & Jang. S. C. (2024). Short-term Stays, Long-term Impacts: How Airbnb Shapes Home Value Dynamics, _The 29th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Miami, FL, USA
 - **Bang, D. H.**, & Jang. S. C. (2023). The Effect of Restaurant Platform Endorsements on Customers’ Attitudes: A Big Data-Based Quasi-Experimental Approach, _2023 Global Marketing Conference_, Seoul, South Korea
 - **Bang, D. H.**, & Jang. S. C. (2023). Navigating Consumer Uncertainty: Investigating the Roles of Information Quantity and Polarity in eWOM Environment, _21st APacCHRIE Conference_, Clark, Philippines
