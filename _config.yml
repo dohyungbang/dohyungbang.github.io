@@ -14,7 +14,7 @@ title                    : "Dohyung Bang"
 title_separator          : "-"
 name                     : &name "Dohyung Bang"
 description              : &description "Dohyung Bang's personal website – PhD Candidate at Purdue University, Tourism Researcher"  
-url                      : "https://dohyungbang.com" 
+url                      : "https://www.dohyungbang.com" 
 baseurl                  : "" 
 repository               : "dohyungbang/dohyungbang.github.io"
 
