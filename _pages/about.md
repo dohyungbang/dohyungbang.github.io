@@ -8,15 +8,13 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the [White Lodging-J.W. Marriott, Jr. School of Hospitality and Tourism Management](https://hhs.purdue.edu/htm/) at Purdue University, where I also earned a Master's degree in _Statistics_. Before joining Purdue, I received a bachelor's degree in _Tourism Management_ and a master's degree in _Hospitality Management_ from Kyung Hee University, South Korea. 
+I am a Ph.D. candidate in the [White Lodging-J.W. Marriott, Jr. School of Hospitality and Tourism Management](https://hhs.purdue.edu/htm/) at Purdue University, where I also earned a Master's degree in _Statistics_. Before joining Purdue, I received a Bachelor's degree in _Tourism Management_ and a Master's degree in _Hospitality Management_ from Kyung Hee University, South Korea. 
 
-My research examines how tourism phenomena shape broader societal outcomes from a macroscopic perspective, and what drives changes within the experience economy ecosystem at a microscopic level.
-My specific interests include:
+My research interests include:
+- Hospitality Business Analytics
+- Causal Inference with Digital Trace Data
 - Tourism Economics
-- Causal Inference in Tourism and Hospitality 
-- Computational Social Science
-- Dynamics in the Home Sharing Economy
 
-Methodologically, my work employes advanced computational and statistical techniques to analyze high-resolution, large-scale datasets (e.g., user-generated content, mobility data, point-of-interest data).
+Specifically, I examine **micro-level dynamics within the hospitality and experience economy ecosystem**, while also exploring **how complex tourism systems at the macro level shape societal and economic outcomes**. My work employs advanced data analytics and computational/statistical techniques to analyze large-scale, high-resolution datasets (e.g., user-generated content, mobility records, and point-of-interest data). Through this research, my ultimate goal is to provide credible, data-driven evidence that advances understanding of the complex and evolving dynamics of hospitality and tourism.
 
 In addition to my personal research, I work as a researcher at the [Center for Hospitality and Retail Industries Business Analytics (CHRIBA)](https://www.chriba-purdue.com/) at Purdue. In this role, I contribute to data-driven reports and collaborative projects that deliver actionable insights to support evidence-based decision-making for stakeholders across the global tourism and hospitality industries.
