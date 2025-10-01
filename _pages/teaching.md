@@ -31,7 +31,7 @@ Teaching (Academic Institutions)
 
 Teaching (Industry Professional Development Programs)
 ======
-_HRD Institute, Hyundai Department Store Group, Inc._ (Publicly Listed Retail Company, South Korea)
+_HRD Institute, Hyundai Department Store Group, Inc._ (Publicly Listed Retail Company, South Korea) 
 - Data Analytics (60H), May 2025 – July 2025
 - Data Analytics (60H), May 2024 – July 2024
 - Data Analytics (60H), May 2023 – July 2023
