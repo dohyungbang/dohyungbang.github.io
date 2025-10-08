@@ -13,7 +13,8 @@ I am a Ph.D. candidate in the [White Lodging-J.W. Marriott, Jr. School of Hospit
 My research interests include:
 - Hospitality Business Analytics
 - Causal Inference with Digital Trace Data
-- Tourism Economics
+- Efficiency and Productivity Analysis
+- Applied Economics in Hospitality and Tourism
 
 Specifically, I examine **micro-level dynamics within the hospitality and experience economy ecosystem**, while also exploring **how complex tourism systems at the macro level shape societal and economic outcomes**. My work employs advanced data analytics and computational/statistical techniques to analyze large-scale, high-resolution datasets (e.g., user-generated content, mobility records, and point-of-interest data). Through this research, my ultimate goal is to provide credible, data-driven evidence that advances understanding of the complex and evolving dynamics of hospitality and tourism.
 
