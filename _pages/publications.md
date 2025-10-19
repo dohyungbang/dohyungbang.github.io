@@ -17,7 +17,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 - **Bang, D. H.**, Choi, K. W., & Kim, A. J. (2022). [Does Michelin Effect Exist? An Empirical Study on the Effects of Michelin Stars](https://doi.org/10.1108/IJCHM-08-2021-1025), _International Journal of Contemporary Hospitality Management_
 
 ## Manuscript Under Review  
-- **Bang, D. H.** & Jang, S. C. (2025). Platform Endorsements as Drivers of Consumer Behavior: Insights from Big Data in the Restaurant Industry (Under 2nd-round review)	
+- **Bang, D. H.** & Jang, S. C. (2025). Platform Endorsements as Drivers of Consumer Behavior:A Quasi-Experimental Study Using Restaurant Review Data (Minor revision under review)
 
 ## Working Papers
 - **Bang, D. H.**, & Jang, S. C. (2025). Size in Calm, Structure in Crisis: eWOM Networks and Restaurant Outcomes
