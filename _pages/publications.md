@@ -26,6 +26,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 - **Bang, D. H.**, & Jang, S. C. (2025). Extending Tourism Productivity: The Shared-Inputs Global Network DEA (SIGN-DEA) Approach with Absorptive Capacity
 
 ## Conference Presentations
+- **Bang, D. H.**, & Jang. S. C. (2026). The Price of Amateurism: Behavioral Biases and Systematic Underpricing in the Home Sharing Economy, _The 31st Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Auburn, AL, USA 
+- **Bang, D. H.**, & Jang. S. C. (2026). Size in Calm, Structure in Crisis: eWOM Networks and Restaurant Outcomes, _The 31st Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Auburn, AL, USA 
 - **Bang, D. H.**, & Jang. S. C. (2025). The Ripple Effect of Motivation: How Online Reviewers Shape eWOM Behavior Over Time, _2025 ICHRIE Global Conference_, Indianapolis, IN, USA 
 - **Bang, D. H.**, & Jang. S. C. (2025). Beyond Carrying Capacity: A New Approach to Overtourism, _The 30th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Houston, TX, USA **(Best Paper Nominee)**	
 - **Bang, D. H.**, & Jang. S. C. (2024). Navigating the Valley of Death Challenge of Travel-tech Startups: Evidence from the Korean Travel-tech Industry, _22nd APacCHRIE Conference_, Seoul, South Korea **(Best Paper Award)**
