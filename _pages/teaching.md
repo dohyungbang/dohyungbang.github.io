@@ -10,13 +10,14 @@ Teaching (Academic Institutions)
 ======
 ### _Undergraduate Level_
 **Financial Management (HTM 441)**, Purdue University, USA
-* Teaching Assistant – Spring 2024
 * Instructor of Record – Fall 2024, Spring 2025 (Two sections), Fall 2025
+* Teaching Assistant – Spring 2024
 
 **Financial Accounting (HTM 141)**, Purdue University, USA
 * Instructor of Record – Summer 2025
 
 **Managerial Accounting (HTM 241)**, Purdue University, USA
+* Instructor of Record – Spring 2025 
 * Co-Instructor – Fall 2025 
 
 **Business Analytics (FSMGT 3512)**, Kyung Hee University, South Korea
