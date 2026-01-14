@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the [White Lodging-J.W. Marriott, Jr. School of Hospitality and Tourism Management](https://hhs.purdue.edu/htm/) at Purdue University, where I also earned a Master's degree in _Statistics_. Before joining Purdue, I received a Bachelor's degree in _Tourism Management_ and a Master's degree in _Hospitality Management_ from Kyung Hee University, South Korea. I will join [Conrad N. Hilton College of Global Hospitality Leadership, University of Houston](https://uh.edu/hilton-college) as an *Assistant Professor of Data Analytics* starting in Fall 2026. 
+I am a Ph.D. candidate in the [White Lodging-J.W. Marriott, Jr. School of Hospitality and Tourism Management](https://hhs.purdue.edu/htm/) at Purdue University, and I will join [Conrad N. Hilton College of Global Hospitality Leadership, University of Houston](https://uh.edu/hilton-college) as an *Assistant Professor of Data Analytics* starting in Fall 2026. 
 
 My research interests include:
 - Hospitality Business Analytics
