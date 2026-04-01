@@ -5,6 +5,9 @@ permalink: /media/
 author_profile: true
 ---
 
+## 2026
+- Mar 30 _**IISG**_ [Illinois-Indiana Seat Grant - Meet our Grad Student Scholars: Dohyung Bang](https://iiseagrant.org/meet-our-grad-student-scholars-dohyung-bang-2/)
+
 ## 2024
 - Jul. 2024 _**Purdue University**_ - [New Purdue Hospitality and Tourism Management research center analyzing Airbnb trends on a global scale](https://www.purdue.edu/hhs/news/2024/07/new-purdue-hospitality-and-tourism-management-research-center-analyzing-airbnb-trends-on-a-global-scale/)
 - May. 2024 _**Folha De S.Paulo**_ - [O que é o 'efeito Michelin' e qual o impacto dele para restaurantes (Understanding the 'Michelin Effect' and Its Impact on Restaurants)](https://www1.folha.uol.com.br/comida/2024/05/o-que-e-o-efeito-michelin-e-qual-o-impacto-dele-para-restaurantes.shtml)
