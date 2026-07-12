@@ -18,12 +18,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 - **Bang, D. H.**, Choi, K. W., & Kim, A. J. (2022). [Does Michelin Effect Exist? An Empirical Study on the Effects of Michelin Stars](https://doi.org/10.1108/IJCHM-08-2021-1025), _International Journal of Contemporary Hospitality Management_
 
 ## Working Papers
-- **Bang, D. H.**, & Jang, S. C. (2025). Size in Calm, Structure in Crisis: eWOM Networks and Restaurant Outcomes
-- **Bang, D. H.**, & Jang, S. C. (2025). The Price of Amateurism: Behavioral Biases and Systematic Underpricing in the Home Sharing Economy
-- **Bang, D. H.**, Jang, S. C. (2025). Hub-and-Spoke Tourism Networks: Measuring and Explaining Spillover Effectiveness
-- **Bang, D. H.**, & Jang, S. C. (2025). Housing Market Fundamentals and STR Pricing: A Hedonic Approach
-- **Bang, D. H.**, & Jang, S. C. (2025). Temporal Shifts in Online Reviewers’ Motivation and Selection Behavior: A Dynamic Analysis Using Hidden Markov Models (HMM)
-- **Bang, D. H.**, & Jang, S. C. (2025). Extending Tourism Productivity: The Shared-Inputs Global Network DEA (SIGN-DEA) Approach with Absorptive Capacity
+- **Bang, D. H.**, & Jang, S. C. (2026). From Reviews to Networks: eWOM Social Capital and Its Impact on Restaurant Performance and Resilience
+- **Bang, D. H.**, & Jang, S. C. (2026). The Price of Amateurism: Behavioral Biases in the Home Sharing Economy
+- **Bang, D. H.**, & Jang, S. C. (2026). Housing Market Fundamentals and STR Pricing
+- **Bang, D. H.**, & Jang, S. C. (2026). Temporal Shifts in Online Reviewers’ Motivation and Selection Behavior: A Dynamic Analysis Using Hidden Markov Models (HMM)
 
 ## Conference Presentations
 - **Bang, D. H.**, & Jang. S. C. (2026). The Price of Amateurism: Behavioral Biases and Systematic Underpricing in the Home Sharing Economy, _The 31st Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism_, Auburn, AL, USA 
