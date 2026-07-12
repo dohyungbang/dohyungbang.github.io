@@ -17,7 +17,7 @@ Teaching (Academic Institutions)
 * Instructor of Record – Summer 2025
 
 **Managerial Accounting (HTM 241)**, Purdue University, USA
-* Instructor of Record – Spring 2025 
+* Instructor of Record – Spring 2026, Summer 2026 
 * Co-Instructor – Fall 2025 
 
 **Business Analytics (FSMGT 3512)**, Kyung Hee University, South Korea
