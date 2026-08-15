@@ -20,7 +20,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ## Working Papers
 - **Bang, D.** & Jang, S. (2026). From Reviews to Networks: eWOM Social Capital and Its Impact on Restaurant Performance and Resilience
 - Kim, S. & **Bang, D.** (2026). More than a used product: The effect of previous owners’ affection cues on consumer responses to second-hand products
-- **Bang, D.** & Jang, S. (2026). Temporal Shifts in Online Reviewers’ Motivation and Selection Behavior: A Dynamic Analysis Using Hidden Markov Models (HMM)
+- **Bang, D.** & Jang, S. (2026). Reviewing for the Audience: Second-Order Beliefs and Strategic Review Production
 - **Bang, D.** (2026). Online Reputation and the Decomposition of Restaurant Demand
 - Xin, K. & **Bang, D.** (2026). Where Does a Ski Destination End? Dynamic Spatial Boundaries of Ski Resort Business Effects
 - **Bang, D.** (2026). Do Hosts Know Their Demand? Revealed Beliefs, Learning, and Pricing in Short-Term Rental Markets
