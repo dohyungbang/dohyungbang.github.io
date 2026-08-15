@@ -23,7 +23,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 - **Bang, D.** & Jang, S. (2026). Temporal Shifts in Online Reviewers’ Motivation and Selection Behavior: A Dynamic Analysis Using Hidden Markov Models (HMM)
 - **Bang, D.** (2026). Online Reputation and the Decomposition of Restaurant Demand
 - Xin, K. & **Bang, D.** (2026). Where Does a Ski Destination End? Dynamic Spatial Boundaries of Ski Resort Business Effects
-- **Bang, D.** & Xin, K. (2026). Beyond Distance: A Gravity Model of Ski Destination Choice Incorporating Accessibility, Resort Characteristics, and Market Competition
 - **Bang, D.** (2026). Do Hosts Know Their Demand? Revealed Beliefs, Learning, and Pricing in Short-Term Rental Markets
 - **Bang, D.** & Jang, S. (2026). An Anchoring Effect of Housing Fundamentals on Short-term Rental Pricing
 - **Bang, D.**, Jang, S., Tang, C., Sun, J., & Choi, K. (2026). Why Do STR Hosts Deviate from the Optimal Policy?
