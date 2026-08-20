@@ -13,7 +13,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Dohyung Bang"
 title_separator          : "-"
 name                     : &name "Dohyung Bang"
-description              : &description "Dohyung Bang's personal website – PhD Candidate at Purdue University, Tourism Researcher"  
+description              : &description "Dohyung Bang's personal website"  
 url                      : "https://www.dohyungbang.com" 
 baseurl                  : "" 
 repository               : "dohyungbang/dohyungbang.github.io"
@@ -26,11 +26,11 @@ author:
   avatar           : "Profile2.jpg"
   name             : "Dohyung Bang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate | Tourism Researcher"
-  location         : "West Lafayette, IN"
-  employer         : "Purdue University"
+  bio              : "Assistant Professor @ UH"
+  location         : "Houston, TX"
+  employer         : "University of Houston"
   uri              : # URL
-  email            : "bangd@purdue.edu" 
+  email            : "dbang4@uh.edu" 
 
   # Academic websites
   academia         : # URL
